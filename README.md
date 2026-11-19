@@ -8,3 +8,5 @@ The EEG datasets are then segmented into the corresponding trials in EEG segment
 CMC analysis can then be run with the preprocessed and corresponding EEG and EMG data
 
 IMC analysis, Muscle activation code and Positive control analysis are the control checks done thereafter
+
+DOI: 10.5281/zenodo.24363490
